@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**anant0301/anant0301** is a ✨ _special_ ✨ repository because this `README.md` appears on your GitHub profile.
+Hello I am Anant Patel, I am a recent passout having completed my under-grads.
 
 <!-- Here are some ideas to get you started: -->
 
