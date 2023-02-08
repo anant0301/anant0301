@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello I am Anant Patel, I am a recent passout having completed my under-grads.
+Hello I am Anant Patel.
 
 <!-- Here are some ideas to get you started: -->
 
